@@ -12,6 +12,7 @@ slides:
   - pop
   - c64-demoscene
   - math-blaster
+  - wii-console
   - minecraft-end-user
   - kinect
 ---
