@@ -1,4 +1,3 @@
-
 ---
 layout: slides
 title: Φορητές συσκευές
@@ -12,9 +11,13 @@ slides:
   - dynabook-mockup
   - apple2
   - canon-cat-mockup
-  - apple-newton
   - steve-mann-wearable-computer
+  - apple-newton
   - IBM-Simon-Personal-Communicator
   - kickstarter-pebble
+  - menus-on-windows
+  - menus-on-top
+  - igoefinger
   - iphone-jobs
 ---
+
