@@ -15,9 +15,6 @@ slides:
   - apple-newton
   - IBM-Simon-Personal-Communicator
   - kickstarter-pebble
-  - menus-on-windows
-  - menus-on-top
-  - igoefinger
   - iphone-jobs
 ---
 
