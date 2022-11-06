@@ -16,4 +16,4 @@ slides:
   - IBM-Simon-Personal-Communicator
   - kickstarter-pebble
   - iphone-jobs
----
+ ---
