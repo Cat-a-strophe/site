@@ -1,4 +1,4 @@
----
+ ---
 layout: slides
 title: Φορητές συσκευές
 image_url: /images/IBM-Simon-Personal-Communicator.png
@@ -17,3 +17,4 @@ slides:
   - kickstarter-pebble
   - iphone-jobs
  ---
+ 
