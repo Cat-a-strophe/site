@@ -9,11 +9,11 @@ slides:
   - Memex
   - Πολυτροπική διάδραση
   - Διεπαφές μεγέθυνσης  
-  - Interactive Text 
   - xanadu-viewer3d
   - Πρωτότυπο για το Xanadu
   - hypercard-multimedia
   - hypercard-layout
+  - Interactive Text
   - PLATO IV 
 ---
 
