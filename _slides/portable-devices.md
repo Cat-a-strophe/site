@@ -16,5 +16,7 @@ slides:
   - IBM-Simon-Personal-Communicator
   - kickstarter-pebble
   - iphone-jobs
+  - alcatel-one-touch-fire
+  - Original_Sony_Walkman_TPS-L2
 ---
 
