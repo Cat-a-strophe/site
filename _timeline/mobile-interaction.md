@@ -16,5 +16,5 @@ events:
   - windows-mobile 
   - media-scrub
   - iphone-jobs
-  - alcatel-one-touch-fire.
+  - alcatel-one-touch-fire
 ---
