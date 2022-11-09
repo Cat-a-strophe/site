@@ -19,4 +19,5 @@ events:
   - children-alto
   - xerox-star-pc
   - digital-desk
+  - Original_Sony_Walkman_TPS-L2
 ---
