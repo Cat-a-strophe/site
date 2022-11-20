@@ -13,3 +13,4 @@ tags:
   - Βιντεοπαιχνίδια
   - Κονσόλες
 ---
+{% include cs-nintendoDS.md %}
