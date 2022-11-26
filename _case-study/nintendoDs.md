@@ -12,5 +12,6 @@ tags:
   - Nintendo
   - Βιντεοπαιχνίδια
   - Κονσόλες
+  - Πένα
 ---
 {% include cs-nintendoDS.md %}
