@@ -6,7 +6,7 @@ caption: "O Ralph Baer ήθελε να έχουν οι ιδιοκτήτες τω
 categories:
   - Βιογραφία 
   - Βιντεοπαιχνίδια
-  - Αρχέτυπα
+  - Τεχνολογία
 tags:
   - Magnavox Odyssey
 ---
