@@ -15,4 +15,5 @@ slides:
   - minecraft-end-user
   - kinect
   - wii-console
+  - dice-plus
 ---
